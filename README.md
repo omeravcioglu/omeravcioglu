@@ -8,7 +8,7 @@ I build games from networked co-op prototypes to titles published on Steam and G
 
 | Game | Where | What it is |
 |---|---|---|
-| **Cheat Day** | Steam | First-person horror game with story cutscenes, built in Unity. [Showcase](https://github.com/omeravcioglu/CheatDay) |
+| **Cheat Day** | [Steam](https://store.steampowered.com/app/1879700/Cheat_Day/) | First-person horror game with story cutscenes, built in Unity (released March 2022). [Showcase](https://github.com/omeravcioglu/CheatDay) |
 | **Wordy** | [Google Play](https://play.google.com/store/apps/details?id=com.wordfind.mchunter) | Word-connect puzzle game for Android (libGDX / Java). [Showcase](https://github.com/omeravcioglu/WordConnect) |
 
 ## Featured projects
