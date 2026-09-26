@@ -11,6 +11,10 @@ I build games from networked co-op prototypes to titles published on Steam and G
 | **Cheat Day** | [Steam](https://store.steampowered.com/app/1879700/Cheat_Day/) | First-person horror game with story cutscenes, built in Unity (released March 2022). [Showcase](https://github.com/omeravcioglu/CheatDay) |
 | **Wordy** | [Google Play](https://play.google.com/store/apps/details?id=com.wordfind.mchunter) | Word-connect puzzle game for Android (libGDX / Java). [Showcase](https://github.com/omeravcioglu/WordConnect) |
 
+## Currently working on
+
+**[Stay In Range](https://github.com/omeravcioglu/StayInRange)**, an online co-op horror FPS. I'm building the hospital intro cutscene with Timeline and extending the hospital and lab levels.
+
 ## Featured projects
 
 | Project | What it is | Tech |
