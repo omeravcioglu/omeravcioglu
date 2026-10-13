@@ -22,6 +22,8 @@ Five sims I'm preparing for Steam:
 - **[One More Station](https://github.com/omeravcioglu/OneMoreStation)**
 - **[LEGIT ENOUGH](https://github.com/omeravcioglu/LegitEnough)**
 
+Just started: **[Breed](https://github.com/omeravcioglu/Breed)**, a pet-shop game about catching animals that escaped the zoo. A Python pipeline already builds its whole town procedurally in Blender.
+
 ## Featured projects
 
 | Project | What it is | Tech |
@@ -33,6 +35,7 @@ Five sims I'm preparing for Steam:
 | [**Back To School Inc.**](https://github.com/omeravcioglu/BackToSchoolInc) | Boarding-school management sim: build the campus, run the school from a notebook, keep your promises, climb the rankings. Drawn in code like ballpoint on graph paper. | Unity 6, pure-C# simulation, UI Toolkit, NUnit and a .NET balance harness |
 | [**One More Station**](https://github.com/omeravcioglu/OneMoreStation) | Metro management sim: draw lines on a schematic map while a procedurally generated town grows into a 48-district metropolis, with City Hall breathing down your neck. | Unity 6, headless passenger simulation, SDF vector rendering, Steamworks.NET |
 | [**LEGIT ENOUGH**](https://github.com/omeravcioglu/LegitEnough) | Pixel-art shop sim: pose nervous customers, type up their passports on a 1998 computer, haggle, and hope it holds up at the border. | Unity 6, pure-C# simulation, software pixel renderer |
+| [**Breed**](https://github.com/omeravcioglu/Breed) | Early production: escaped zoo animals all over town, a pet shop to grow. Its town is built procedurally from a hand-designed layout: roads, canal, a modular building kit, landmarks and gameplay markers. | Python in headless Blender, FBX/JSON export to Unity 6 |
 | [**Smartest in the Room**](https://github.com/omeravcioglu/SmartestInTheRoom) | Online party game for 1–8 players: 69 elimination minigames played on the same seeded level, a voiced host and a newspaper-style look drawn entirely in code. | Unity 6, Netcode for GameObjects, Relay, 170+ tests |
 | [**SoapSlide**](https://github.com/omeravcioglu/SoapSlide) | 8-player last-one-standing slippery-arena party game, taken from an offline prototype to online. | Netcode for GameObjects, Matchmaker, Edgegap servers, Cloud Code, Vivox |
 | [**ScriptCutAI**](https://github.com/omeravcioglu/ScriptCutAI) | AI editing assistant for Premiere Pro: aligns speech to the script and cuts out retakes and mistakes automatically. | Python, FastAPI, OpenAI Whisper, CEP / ExtendScript |
