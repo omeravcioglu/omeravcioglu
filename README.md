@@ -22,7 +22,9 @@ Five sims I'm preparing for Steam:
 - **[One More Station](https://github.com/omeravcioglu/OneMoreStation)**
 - **[LEGIT ENOUGH](https://github.com/omeravcioglu/LegitEnough)**
 
-Just started: **[Breed](https://github.com/omeravcioglu/Breed)**, a pet-shop game about catching animals that escaped the zoo. A Python pipeline already builds its whole town procedurally in Blender.
+Just started:
+- **[Breed](https://github.com/omeravcioglu/Breed)**, a pet-shop game about catching animals that escaped the zoo. A Python pipeline already builds its whole town procedurally in Blender.
+- **[Phone Repair Shop](https://github.com/omeravcioglu/PhoneRepairShop)**, a hands-on repair sim: open broken phones part by part on the workbench, fix them and get paid.
 
 ## Featured projects
 
@@ -37,6 +39,7 @@ Just started: **[Breed](https://github.com/omeravcioglu/Breed)**, a pet-shop gam
 | [**LEGIT ENOUGH**](https://github.com/omeravcioglu/LegitEnough) | Pixel-art shop sim: pose nervous customers, type up their passports on a 1998 computer, haggle, and hope it holds up at the border. | Unity 6, pure-C# simulation, software pixel renderer |
 | [**Breed**](https://github.com/omeravcioglu/Breed) | Early production: escaped zoo animals all over town, a pet shop to grow. Its town is built procedurally from a hand-designed layout: roads, canal, a modular building kit, landmarks and gameplay markers. | Python in headless Blender, FBX/JSON export to Unity 6 |
 | [**Stakeholders**](https://github.com/omeravcioglu/Stakeholders) | Business management game: partners run one shared company, and each is tempted by kickbacks and side deals. Board votes, blackmail and a final reckoning, solo with AI partners or online. | Unity 6, pure-C# simulation, Netcode for GameObjects, Relay, .NET fuzz harness |
+| [**Phone Repair Shop**](https://github.com/omeravcioglu/PhoneRepairShop) | Early production: turn broken phones over on the workbench, select and remove parts with real tools, and repair them. | Unity 6, URP, procedural Blender generators, EditMode and PlayMode tests |
 | [**Smartest in the Room**](https://github.com/omeravcioglu/SmartestInTheRoom) | Online party game for 1–8 players: 69 elimination minigames played on the same seeded level, a voiced host and a newspaper-style look drawn entirely in code. | Unity 6, Netcode for GameObjects, Relay, 170+ tests |
 | [**SoapSlide**](https://github.com/omeravcioglu/SoapSlide) | 8-player last-one-standing slippery-arena party game, taken from an offline prototype to online. | Netcode for GameObjects, Matchmaker, Edgegap servers, Cloud Code, Vivox |
 | [**ScriptCutAI**](https://github.com/omeravcioglu/ScriptCutAI) | AI editing assistant for Premiere Pro: aligns speech to the script and cuts out retakes and mistakes automatically. | Python, FastAPI, OpenAI Whisper, CEP / ExtendScript |
