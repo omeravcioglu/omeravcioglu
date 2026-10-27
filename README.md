@@ -26,6 +26,7 @@ Games I'm preparing for Steam:
 Just started:
 - **[Breed](https://github.com/omeravcioglu/Breed)**, a pet-shop game about catching animals that escaped the zoo. A Python pipeline already builds its whole town procedurally in Blender.
 - **[Have You Tried Rice?](https://github.com/omeravcioglu/PhoneRepairShop)**, a goofy phone repair game in pixel art: customers bring broken phones to the counter, and you fix them by hand on the bench.
+- **[Shape Merge](https://github.com/omeravcioglu/ShapeMerge)**, a soft-body merge game: shoot squishy shapes into a tub, and equal shapes fuse into the next. Custom physics, with everything drawn and synthesized in code.
 
 ## Featured projects
 
@@ -41,6 +42,7 @@ Just started:
 | [**Breed**](https://github.com/omeravcioglu/Breed) | Early production: escaped zoo animals all over town, a pet shop to grow. Its town is built procedurally from a hand-designed layout: roads, canal, a modular building kit, landmarks and gameplay markers. | Python in headless Blender, FBX/JSON export to Unity 6 |
 | [**Stakeholders**](https://github.com/omeravcioglu/Stakeholders) | Business management game: partners run one shared company, and each is tempted by kickbacks and side deals. Board votes, blackmail and a final reckoning, solo with AI partners or online. | Unity 6, pure-C# simulation, Netcode for GameObjects, Relay, .NET fuzz harness |
 | [**Have You Tried Rice?**](https://github.com/omeravcioglu/PhoneRepairShop) | Early production: a goofy phone repair game in pixel art. Customers hop up to the counter with broken phones and silly stories; you open them on the bench with the right tools in the right order. | Unity 6, URP 2D, pixel art drawn by Python scripts, EditMode and PlayMode tests |
+| [**Shape Merge**](https://github.com/omeravcioglu/ShapeMerge) | Just started: a soft-body merge game. Shoot squishy shapes into a glass tub, and two equal shapes fuse into the next, from circle to star. | Unity 6, URP, custom XPBD soft-body physics, procedural rendering and audio |
 | [**Smartest in the Room**](https://github.com/omeravcioglu/SmartestInTheRoom) | Online party game for 1–8 players: 69 elimination minigames played on the same seeded level, a voiced host and a newspaper-style look drawn entirely in code. [Coming soon on Steam](https://store.steampowered.com/app/5379520/Smartest_in_the_Room/). | Unity 6, Netcode for GameObjects, Relay, 170+ tests |
 | [**SoapSlide**](https://github.com/omeravcioglu/SoapSlide) | 8-player last-one-standing slippery-arena party game, taken from an offline prototype to online. | Netcode for GameObjects, Matchmaker, Edgegap servers, Cloud Code, Vivox |
 | [**ScriptCutAI**](https://github.com/omeravcioglu/ScriptCutAI) | AI editing assistant for Premiere Pro: aligns speech to the script and cuts out retakes and mistakes automatically. | Python, FastAPI, OpenAI Whisper, CEP / ExtendScript |
