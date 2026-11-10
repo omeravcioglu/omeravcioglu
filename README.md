@@ -13,7 +13,7 @@ I build games from networked co-op prototypes to titles published on Steam and G
 
 ## Currently working on
 
-**[Stay In Range](https://github.com/omeravcioglu/StayInRange)**, an online co-op horror FPS. I'm building the hospital intro cutscene with Timeline and extending the hospital and lab levels.
+**[Stay In Range](https://github.com/omeravcioglu/StayInRange)**, an online co-op horror game. I'm moving it from first person to a single third-person player, with melee planned in place of the guns, while the team builds new parkour levels.
 
 Games I'm preparing for Steam:
 - **[Smartest in the Room](https://github.com/omeravcioglu/SmartestInTheRoom)**: [coming soon on Steam](https://store.steampowered.com/app/5379520/Smartest_in_the_Room/)
